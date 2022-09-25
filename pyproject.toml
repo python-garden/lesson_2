@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "lesson_2"
-version = "0.1.0"
+version = "0.2.0"
 description = "Пример кода для второй статьи"
 authors = ["Nick Balandin"]
 license = "MIT"
