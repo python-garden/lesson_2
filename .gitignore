@@ -1,7 +1,8 @@
-.DS_Store/
+**/.DS_Store
 .idea/
 .pythonenv/
 secrets/
+docker-compose.override.yml
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

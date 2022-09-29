@@ -6,7 +6,7 @@ from app.settings.db import service_database_settings
 
 
 app = FastAPI(
-    title="Lesson 1",
+    title="Lesson 2",
     description="Test FastApi application for Python Garden",
 )
 
