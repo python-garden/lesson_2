@@ -13,7 +13,7 @@
 ```yaml
 version: "3.4"
 services:
-  db:
+  service_db:
     platform: linux/arm64/v8
   mq:
     platform: linux/arm64/v8
